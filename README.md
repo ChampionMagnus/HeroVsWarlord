@@ -7,7 +7,8 @@ This is a basic text based style short fighting game created in Python as one of
 It is provided here for demonstration purposes only and is protected under copyright law.  
 
 ## Copyright Notice
-Copyright 2025 Magnus Thomasson 
+Copyright 2025 Magnus Thomasson
+
 All rights reserved.  
 
 ## Usage Restrictions
